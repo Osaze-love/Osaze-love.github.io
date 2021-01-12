@@ -1,0 +1,43 @@
+body{
+    font-family: 'Raleway';
+    
+}
+
+
+.home_section{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+.main{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(img/background11.jpg) no-repeat center center/ cover;
+    height: 100vh;
+}
+.sub {
+     background:  linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(img/grey-2942129_1280.jpg) no-repeat center center/ cover;
+}
+
+.main2{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(img/background2.jpg) no-repeat center center/ cover;
+    height: 100vh;
+}
+
+.main2_text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+ .imegi{
+     background-color: black;
+ }
+.navbar-toggler{
+    outline: none !important;
+}
+
+
+
+
